@@ -1,6 +1,6 @@
 {
-  "name" : "phalcon/ebooks",
-  "description" : "The ebooks application on Phalcon PHP",
+  "name" : "phalcon/olap",
+  "description" : "The olap application on Phalcon PHP",
   "version" : "1.1.0",
   "require" : {
   },
